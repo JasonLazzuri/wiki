@@ -1,0 +1,24 @@
+.powder{
+  float: left;
+}
+.green{
+background-color: ##97E8C2;
+}
+
+.well{
+  background-color: #cef2e0;
+}
+.panel, .panel-info{
+  background-color: #cef2e0;
+}
+#vert{
+  width:300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+.recent{
+  text-align: right;
+}
