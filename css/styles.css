@@ -1,33 +1,50 @@
+/*image*/
 .powder{
   float: left;
 }
-.green{
-background-color: ##97E8C2;
+
+/*middle bottom text*/
+#green{
+  background-color:#F3FFF8;
 }
 
-.well{
-  background-color: #cef2e0;
+.recently1{
+  text-align: right;
 }
-.panel, .panel-info{
-  background-color: #cef2e0;
+.bg-success{
+  background-color: #C5EFD8;
+  border: solid black 1px;
+}
+.panel, .panel-info1{
+  background-color: #F5FAFF;
+  border: solid black 1px;
+}
+
+/*blue box*/
+#blue{
+  background-color: #F3F9FF;
+}
+
+
+/*purple box*/
+.bg-danger{
+  background-color: #D4C2F1;
+  border: solid black 1px;
+}
+.bg-info{
+  border: solid black 1px;
+}
+#purple{
+  background-color: #FAF5FF;
 }
 #vert{
-  width:300px;
+  width:200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   float: left;
+  padding-right: 10px;
 }
-
 .recent{
   text-align: right;
-}
-.recently1{
-  text-align: right;
-}
-.well2{
-  background-color: #FAE6FE;
-}
-.panel, .panel-info2{
-  background-color: #FAE6FE;
 }
